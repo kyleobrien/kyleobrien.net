@@ -1,0 +1,163 @@
+html, body
+{
+	background-color: white;
+	color: #2B2B2B;
+	font-family: "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	line-height: 1.75;
+	margin: 0;
+	min-width: 320px;
+	text-rendering: optimizeLegibility;
+}
+
+h1
+{
+	color: black;
+	font-size: 1.25em;
+	font-weight: 600;
+	margin-top: 0.5em;
+}
+
+img
+{
+	max-width: 100%;
+	height: auto;
+}
+
+ul, ol
+{
+	margin-top: -1em;
+	padding-left: 1em;
+}
+
+li
+{
+	font-size: 0.8em;
+}
+
+footer
+{
+	text-align: center;
+}
+
+a:link, a:visited, a:active, a:hover
+{
+	color: #2B2B2B;
+}
+
+#hero_background
+{
+	background-color: #1F1F21;
+	border-bottom: 4px solid #4A4A4A;
+}
+
+#hero_content
+{
+	color: white;
+	margin: 0 auto 0 auto;
+	max-width: 50em;
+	min-width: 320px;
+	overflow: auto;
+	padding: 1em 0.5em 0 0.5em;
+}
+
+#hero_content a:link,
+#hero_content a:visited,
+#hero_content a:active,
+#hero_content a:hover
+{
+	color: white;
+}
+
+#hero_content_left
+{
+	float: left;
+	max-width: 25%;
+}
+
+#hero_content_right
+{	
+	float: right;
+	padding: 0 2.5% 0 2.5%;
+	max-width: 70%;
+}
+
+#hero_name
+{
+	font-family: Futura, Verdana, sans-serif;
+	font-size: 1.5em;
+	font-variant: small-caps;
+	font-weight: normal;
+}
+
+#hero_description
+{
+	font-size: 1.75em;
+	margin-top: -0.5em;
+	margin-left: 0.14em;
+}
+
+#main_content
+{
+	clear: both;
+	font-size: 1.75em;
+	margin: 0 auto 0 auto;
+	max-width: 25em;
+	min-width: 320px;
+	padding: 0 0.25em 0 0.25em;
+}
+
+#main_content p
+{
+	margin: 0;
+}
+
+#contact_list li,
+#elsewhere_list li
+{
+	list-style: none;
+}
+
+.fa-envelope
+{
+	color: #FF2A68;
+}
+
+.fa-twitter
+{
+	color: #34AADC;
+}
+
+.fa-phone
+{
+	color: #FF9500;
+}
+
+.fa-map-marker
+{
+	color: #0BD318;
+}
+
+.fa-github
+{
+	color: #C643FC;
+}
+
+.fa-stack-overflow
+{
+	color: #1D62F0;
+}
+
+.fa-plus
+{
+	color: #FF1300;
+}
+
+.fa-thumb-tack
+{
+	color: #FFCC00;
+}
+
+#code_list li
+{
+	margin-bottom: 1em;
+}
