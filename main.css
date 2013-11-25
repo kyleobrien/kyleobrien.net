@@ -83,10 +83,13 @@ a:link, a:visited, a:active, a:hover
 
 #hero_name
 {
-	font-family: Futura, Verdana, sans-serif;
 	font-size: 1.5em;
 	font-variant: small-caps;
-	font-weight: normal;
+	font-weight: 600;
+	
+	/*Needed to make first line have similar line height.*/
+	display: inline-block;
+	height: 1.5em;
 }
 
 #hero_description
@@ -144,17 +147,17 @@ a:link, a:visited, a:active, a:hover
 
 .fa-stack-overflow
 {
-	color: #1D62F0;
+	color: #5856D6;
 }
 
 .fa-plus
 {
-	color: #FF1300;
+	color: #FF2A68;
 }
 
 .fa-thumb-tack
 {
-	color: #FFCC00;
+	color: #34AADC;
 }
 
 #code_list li
