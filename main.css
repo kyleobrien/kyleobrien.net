@@ -47,7 +47,6 @@ a:link, a:visited, a:active, a:hover
 #hero_background
 {
 	background-color: #1F1F21;
-	border-bottom: 2px solid #4A4A4A;
 }
 
 #hero_content
@@ -57,7 +56,7 @@ a:link, a:visited, a:active, a:hover
 	max-width: 50em;
 	min-width: 320px;
 	overflow: auto;
-	padding: 1em 0.5em 0 0.5em;
+	padding: 2em 0.5em 0 0.5em;
 }
 
 #hero_content a:link,
@@ -142,12 +141,12 @@ a:link, a:visited, a:active, a:hover
 
 .fa-github
 {
-	color: #C643FC;
+	color: #1F1F21;
 }
 
 .fa-stack-overflow
 {
-	color: #5856D6;
+	color: #FF9500;
 }
 
 .fa-plus
