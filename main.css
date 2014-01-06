@@ -1,6 +1,6 @@
 html, body
 {
-	background-color: white;
+	background-color: #FEFEFE;
 	color: #2B2B2B;
 	font-family: "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	line-height: 1.75;
@@ -114,6 +114,7 @@ a:link, a:visited, a:active, a:hover
 }
 
 #contact_list li,
+#here_list li,
 #elsewhere_list li
 {
 	list-style: none;
@@ -157,6 +158,11 @@ a:link, a:visited, a:active, a:hover
 .fa-thumb-tack
 {
 	color: #34AADC;
+}
+
+.fa-star
+{
+	color: #FFCC00;
 }
 
 #code_list li
