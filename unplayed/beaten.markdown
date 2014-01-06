@@ -1,0 +1,16 @@
+Those that have fallen.
+
+- Longest Night: NITW Supplement 1 / 2013.12.22 ([Mac](http://www.nightinthewoods.com)) (Matching stars based on sound to form a constellation was an idea I had a while ago. Nice to see it in action.)
+- Year Walk / 2013.10.20 ([iOS](http://simogo.com/games/yearwalk/)) (Wow.)
+- Wub Wub Wescue / 2013.09.23 ([Mac](http://retrogamecrunch.com/games/4/beat-drop)) (Probably my least favorite of the crunch so far, but still fun platforming.)
+- Walking Dead: The Game / 2013.08.27 ([iOS](http://www.telltalegames.com/walkingdead)) (Enjoyed the story, despite jerky performance on older iPad. Annoyed by instances where multiple choices didn't properly convey tone, ended up making unintended decisions.)
+- Gunman Clive ([3DS](http://www.gunmanclive.com)) (Solid, but shallow side-scroller. Visuals were charming in a hand-drawn sort of way. Beat on normal and hard difficulties.)
+- GAIAttack ([Mac](http://retrogamecrunch.com/games/2/gaiattack)) (Standard, 2D beat'em up. Fun. Had the top score and time for a while, but someone beat my time. Too busy to try and top it.)
+- End of Line ([Mac](http://retrogamecrunch.com/games/1/end-of-line)) (Pretty solid. Played it a second time for the 'good' ending.)
+- Angle Isle ([iOS](http://rustymoyher.com/ludumdare/angleisle/)) (Super fun platformer. Short, but I had a blast speedrunning. Currently on top for all difficulty levels as of this writing.)
+- Millinaut ([Mac](http://www.shauninman.com/ludumdare/millinaut/)) (Some challenging platforming. Didn't know I could swap the boulder and rocket until the last level, so that made the game harder than it should have been.)
+- Kentucky Route Zero: Act 1 ([Mac](http://kentuckyroutezero.com)) (Really enjoying the feel of this thing. Can't wait for the rest of it.)
+- Super Mario Advance 4 ([GBA](http://en.wikipedia.org/wiki/Super_Mario_Advance_4:_Super_Mario_Bros._3)) (Not as good as I remember, but still solid. Levels felt too short.)
+- Super Clew Land ([Mac](http://retrogamecrunch.com)) (Great platform work. Some really nice challenges as well. Played through 2x.)
+- Midas ([Mac](http://wanderlands.org/main/midas)) (Simple, but nicely executed puzzle platformer. Liked the thin narrative that went with it.)
+- Beatdown! ([iOS](http://www.ravenousgames.com/games)) (Unremarkable, no weapon differentiation. One play through was enough.)
