@@ -2,17 +2,16 @@ html, body
 {
 	background-color: #FEFEFE;
 	color: #2B2B2B;
-	font-family: "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
-	line-height: 1.75;
+	font-family: "Avenir Next", "Avenir", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	line-height: 1.66;
 	margin: 0;
-	min-width: 320px;
 	text-rendering: optimizeLegibility;
 }
 
 h1
 {
 	color: black;
-	font-size: 1.25em;
+	font-size: 1.33em;
 	font-weight: 600;
 	margin-top: 0.5em;
 }
@@ -31,7 +30,7 @@ ul, ol
 
 li
 {
-	font-size: 0.8em;
+	font-size: 0.9em;
 }
 
 footer
@@ -54,9 +53,8 @@ a:link, a:visited, a:active, a:hover
 	color: white;
 	margin: 0 auto 0 auto;
 	max-width: 50em;
-	min-width: 320px;
 	overflow: auto;
-	padding: 2em 0.5em 0 0.5em;
+	padding: 2.5em 0.5em 0 0.5em;
 }
 
 #hero_content a:link,
@@ -80,20 +78,9 @@ a:link, a:visited, a:active, a:hover
 	max-width: 70%;
 }
 
-#hero_name
-{
-	font-size: 1.5em;
-	font-variant: small-caps;
-	font-weight: 600;
-	
-	/*Needed to make first line have similar line height.*/
-	display: inline-block;
-	height: 1.5em;
-}
-
 #hero_description
 {
-	font-size: 1.75em;
+	font-size: 2em;
 	margin-top: -0.5em;
 	margin-left: 0.14em;
 }
@@ -104,7 +91,6 @@ a:link, a:visited, a:active, a:hover
 	font-size: 1.75em;
 	margin: 0 auto 0 auto;
 	max-width: 25em;
-	min-width: 320px;
 	padding: 0 0.25em 0 0.25em;
 }
 
@@ -167,7 +153,7 @@ a:link, a:visited, a:active, a:hover
 
 .fa-gamepad
 {
-	color: #898C90;
+	color: #1F1F21;
 }
 
 #code_list li
