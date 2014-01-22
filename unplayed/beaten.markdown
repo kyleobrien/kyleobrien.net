@@ -1,5 +1,6 @@
 Those that have fallen.
 
+- The Legend of Zelda: A Link Between Worlds ([3DS](http://zelda.com/link-between-worlds/)) (100% item completion, but I died once. Will go for perfect on a Hero mode replay. Minor flaws aside, this game was delightful. A fitting sequel.)
 - Longest Night: NITW Supplement 1 / 2013.12.22 ([Mac](http://www.nightinthewoods.com)) (Matching stars based on sound to form a constellation was an idea I had a while ago. Nice to see it in action.)
 - Year Walk / 2013.10.20 ([iOS](http://simogo.com/games/yearwalk/)) (Wow.)
 - Wub Wub Wescue / 2013.09.23 ([Mac](http://retrogamecrunch.com/games/4/beat-drop)) (Probably my least favorite of the crunch so far, but still fun platforming.)
