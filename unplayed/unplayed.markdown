@@ -23,5 +23,7 @@ Games I need to check out.
 - Device 6 ([iOS](http://simogo.com/games/device6/))
 - Oceanhorn ([iOS](https://itunes.apple.com/us/app/oceanhorn/id708196645?mt=8))
 - Papers, Please ([Mac](http://dukope.com))
+- SteamWorld Dig ([3DS](http://steamworldgames.com/dig/))
 - 868-HACK ([iOS](http://868-hack.neocities.org))
+- Attack of the Friday Monsters ([3DS](http://level5ia.com/blackbox/us/friday-monsters/))
 

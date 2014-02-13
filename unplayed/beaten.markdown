@@ -1,5 +1,6 @@
 Those that have fallen.
 
+- Home / 2014.02.11 ([iPad](http://homehorror.com)) (Didn't get the appeal. Story felt too direct, repetitive. iPad controls at the edges of the screen were wonky.)
 - The Legend of Zelda: A Link Between Worlds ([3DS](http://zelda.com/link-between-worlds/)) (100% item completion, but I died once. Will go for perfect on a Hero mode replay. Minor flaws aside, this game was delightful. A fitting sequel.)
 - Longest Night: NITW Supplement 1 / 2013.12.22 ([Mac](http://www.nightinthewoods.com)) (Matching stars based on sound to form a constellation was an idea I had a while ago. Nice to see it in action.)
 - Year Walk / 2013.10.20 ([iOS](http://simogo.com/games/yearwalk/)) (Wow.)

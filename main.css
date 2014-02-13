@@ -62,7 +62,7 @@ a:link, a:visited, a:active, a:hover
 #hero_content a:active,
 #hero_content a:hover
 {
-	color: white;
+	color: #c0c0c0;
 }
 
 #hero_content_left
@@ -81,7 +81,7 @@ a:link, a:visited, a:active, a:hover
 #hero_description
 {
 	font-size: 2em;
-	margin-top: -0.5em;
+	margin-top: -0.4em;
 	margin-left: 0.14em;
 }
 
