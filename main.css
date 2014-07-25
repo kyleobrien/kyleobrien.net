@@ -3,7 +3,7 @@ html, body
 	background-color: #FEFEFE;
 	color: #2B2B2B;
 	font-family: "Avenir Next", "Avenir", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-	line-height: 1.66;
+	line-height: 1.75;
 	margin: 0;
 	text-rendering: optimizeLegibility;
 }
@@ -11,8 +11,8 @@ html, body
 h1
 {
 	color: black;
-	font-size: 1.5em;
-	font-weight: 600;
+	font-size: 1em;
+	font-weight: 500;
 	margin-top: 0.5em;
 }
 
@@ -25,12 +25,17 @@ img
 ul, ol
 {
 	margin-top: -1em;
-	padding-left: 0.5em;
+	padding-left: 1em;
 }
 
 li
 {
-	font-size: 0.9em;
+	font-size: 0.8em;
+}
+
+strong
+{
+	font-weight: 600;
 }
 
 footer
@@ -106,6 +111,55 @@ a:link, a:visited, a:active, a:hover
 	list-style: none;
 }
 
+#portfolio
+{
+	background-color: #1F1F21;
+	color: white;
+}
+
+#portfolio a:link,
+#portfolio a:visited,
+#portfolio a:active,
+#portfolio a:hover
+{
+	color: white;
+}
+
+#backlink
+{
+	display: block;
+	padding: 2em 0 0 2em;
+}
+
+.portfolio_app
+{
+	margin-left: 2em;
+}
+
+.portfolio_app_icon
+{
+	width: 40px;
+	vertical-align: text-bottom;
+}
+
+.portfolio_app_title
+{
+	font-size: 40px;
+	margin-left: 10px;
+}
+
+.portfolio_app_description
+{
+	max-width: 44em;
+}
+
+.portfolio_app_screenshot
+{
+	padding-right: 10px;
+    height: 400px;
+	width: auto;
+}
+
 .fa-envelope
 {
 	color: #FF2A68;
@@ -141,7 +195,12 @@ a:link, a:visited, a:active, a:hover
 	color: #FF9500;
 }
 
-.fa-plus
+.fa-folder
+{
+	color: #453ccc;
+}
+
+.fa-link
 {
 	color: #FF2A68;
 }
