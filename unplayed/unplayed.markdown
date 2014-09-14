@@ -28,4 +28,8 @@ Games I need to check out.
 - Block Legend ([iOS](https://itunes.apple.com/us/app/id827412250?mt=8))
 - Escape Goat 2 ([Mac](http://www.escapegoat2.com))
 - Sir, You Are Being Hunted ([Mac](http://www.big-robot.com/tag/sir-you-are-being-hunted/))
+- Hundreds ([iOS](http://playhundreds.com))
+- Limits and Demonstrations ([Mac](http://kentuckyroutezero.com))
+- The Entertainment ([Mac](http://kentuckyroutezero.com))
+- Deep Under the Sky ([iOS](http://deepunderthesky.com))
 

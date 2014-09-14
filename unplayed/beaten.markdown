@@ -1,5 +1,6 @@
 Those that have fallen.
 
+- Pink Hour / 2014.08.22 ([iOS](http://www.playism-games.com/games/pinkhour/))(Extremely short prequel to Kero Blaster. Hard mode was fun.)
 - Broken Age: Part 1 / 2014.06.29 ([Mac](http://www.brokenagegame.com))(First adventure game in a while. Gorgeous style, interesting story. Puzzles never felt too obscure. Thinking about that cliffhanger.)
 - SteamWorld Dig / 2014.06.22 ([3DS](http://steamworldgames.com/dig/)) (Catchy, finished in just a few days. Enjoyed the mining hook. Combat could have been better. Difficulty ramp faster as well. Got 2 gold star for gold and orbs, silver for deaths, bronze for time.)
 - Kero Blaster / 2014.06.13 ([iOS](http://www.playism-games.com/games/keroblaster/)) (Best platforming iOS so far. Great, quirky NPC interactions. Played through once, with new game plus and boss rush mode. Only got 1 of 4 upgrades to secret Kuro Blaster.)
