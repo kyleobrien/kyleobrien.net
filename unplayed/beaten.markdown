@@ -1,10 +1,14 @@
 Those that have fallen.
 
+- Kometen / 2015.08.23 ([iOS](http://eriksvedang.com/kometen/)) (Enjoyed leisurely exploring the galaxy for artwork. Would have loved a retina update to this old, underappreciated gem.)
+- Monument Valley / 2014.12.12, 2014.04.07 ([iOS](http://www.monumentvalleygame.com)) (Short, but sweet. A touch focused, lite version of Fez. Very charming. Played Forgotten Shores on most recent playthrough.)
+- Attack of the Friday Monsters / ??? ([3DS](http://level5ia.com/blackbox/us/friday-monsters/))(Charming. Wished the card battle minigame was engaging.)
+- Space Age / 2014.12.10 ([iOS](http://spaceageapp.com))(Let down. Dialog dragged and lacked user control. Controls finicky in places where timing was important. Got all the achievements.)
+- Desert Golfing / 2014.11.07 ([iOS](http://desertgolfing.captain-games.com))(Pure game. Stopped at hole 1000.)
 - Pink Hour / 2014.08.22 ([iOS](http://www.playism-games.com/games/pinkhour/))(Extremely short prequel to Kero Blaster. Hard mode was fun.)
 - Broken Age: Part 1 / 2014.06.29 ([Mac](http://www.brokenagegame.com))(First adventure game in a while. Gorgeous style, interesting story. Puzzles never felt too obscure. Thinking about that cliffhanger.)
 - SteamWorld Dig / 2014.06.22 ([3DS](http://steamworldgames.com/dig/)) (Catchy, finished in just a few days. Enjoyed the mining hook. Combat could have been better. Difficulty ramp faster as well. Got 2 gold star for gold and orbs, silver for deaths, bronze for time.)
 - Kero Blaster / 2014.06.13 ([iOS](http://www.playism-games.com/games/keroblaster/)) (Best platforming iOS so far. Great, quirky NPC interactions. Played through once, with new game plus and boss rush mode. Only got 1 of 4 upgrades to secret Kuro Blaster.)
-- Monument Valley / 2014.04.07 ([iOS](http://www.monumentvalleygame.com)) (Short, but sweet. A touch focused, lite version of Fez. Very charming. Will play through a second time when they release more levels.)
 - Shuten / 2014.03.26  ([Mac](http://retrogamecrunch.com/games/6/shuten)) (Finally beat the last boss. Fist shmup I've played to completion. Thoroughly enjoyed.)
 - Tappingo / 2014.03.25 ([3DS](http://www.goodbyegalaxygames.com/tappingo/)) (First half was promising, but difficulty never increased. Puzzles got larger, making tap targets smaller, upping frustration.)
 - Mega Man / 2014.03.09 ([NES](http://megaman.capcom.com)) (Whoa unbalanced. A few parts required random luck, rather than skill.)
