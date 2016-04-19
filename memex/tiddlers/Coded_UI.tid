@@ -1,0 +1,59 @@
+created: 20160226022004255
+modified: 20160226040633214
+tags: codedui automation
+title: Coded UI
+type: text/x-markdown
+
+3 Strategies for Coded UI Automation:
+--------------------------------------------
+
+1. Record / Playback only. This is the default. Results in large UIMaps and is the most fragile approach.
+2. Record UIMap, then do manual coding. More maintainable. Can break the monolithic UIMap down into multiple UIMaps.
+3. Hand code everything!
+
+
+UIMap
+-------
+
++ The file that contains controls, actions and assertions created from the recorder tool.
++ Classes represent a tree structure of the UI under test.
+
+
+Finding UI
+--------------
+
++ Search Properties - Criteria to look for UI that is contained within a parent control.
+  - Searches by starting at the parent control and works its way down. Search is in the scope of the parent element.
+  - Search is breadth first.
+  - Search properties are searched with AND condition.
++ Filter Properties - Used when search properties brings back multiples and you need to narrow it down until one is left.
+  - Goes through one by one until only one match remains or reaches the last filter.
+  - Can find nothing, one thing or multiples. If multiples, returns the first.
+
+Automation Without UIMap
+------------------------------------
+
+1. Create an instance of ApplicationUnderTest.
+2. Use ApplicationUnderTest object to pass into an UITestControl constructor as the root of the entire application.
+3. Set search and filter properties on that UITestControl object.
+4. Interact!
+
+You can change the values in the params class to make it search or assert for stuff that was different when the code was generated.
+
+
+Waiting for UI
+----------------
+
+All of these return a boolean:
+
+WaitForControlEnabled(time);
+WaitForControlNotExists(time);
+WaitForControlPropertyEqual(time);
+WaitForControlPropertyNotEqual(time);
+WaitForControlCondition(Predicate);
+
+
+ApplicationUnderTest Class
+--------------------------------
+
+ApplicationUnderTest.Launch(path to exe);

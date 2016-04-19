@@ -1,5 +1,8 @@
 Those that have fallen.
 
+- Blackbar / 2016.04.06 ([iOS](http://mrgan.com/blackbar/)) (Reminded me of Desert Golf's purity. Inspiring how much some can can do with so little.)
+- Bastion / 2016.04.03 ([iOS](http://supergiantgames.com/?page_id=242)) (Solid. Stuck around for NG+, but didn't 100% the acheivements with the dreams. Great voice acting and soundtrack.)
+- Pink Heaven / 2015.10.21 ([iOS](http://playism-games.com/game/244/pink-heaven)) (Still got it.)
 - Kometen / 2015.08.23 ([iOS](http://eriksvedang.com/kometen/)) (Enjoyed leisurely exploring the galaxy for artwork. Would have loved a retina update to this old, underappreciated gem.)
 - Monument Valley / 2014.12.12, 2014.04.07 ([iOS](http://www.monumentvalleygame.com)) (Short, but sweet. A touch focused, lite version of Fez. Very charming. Played Forgotten Shores on most recent playthrough.)
 - Attack of the Friday Monsters / ??? ([3DS](http://level5ia.com/blackbox/us/friday-monsters/))(Charming. Wished the card battle minigame was engaging.)

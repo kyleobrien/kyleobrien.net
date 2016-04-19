@@ -1,0 +1,69 @@
+created: 20160312195218492
+modified: 20160312195344164
+tags: programming sql
+title: SQL
+type: text/x-markdown
+
+
+Types of Data
+---------------
+
+	INTEGER
+	REAL
+	TEXT
+
+Different types of data that a user can store in a database.
+
+
+Primary Keys
+---------------
+
+	PRIMARY KEY
+
+Every table needs a primary key. Add a modifier to the columns type to specify.
+
+
+Creating a New Table
+------------------------
+
+	CREATE TABLE <table_name> (<column_name> <type>, ...);
+
+Creates a new table with a given name, and fields of types that are specified.
+
+
+Inserting Into an Existing Table
+-----------------------------------
+
+	INSERT INTO <table_name> VALUES (value, ...);
+
+Adds a new row to the end of the table with all the values that you specify. You’ll need to supply a value for each field in the table.
+
+
+Selecting From a Table
+--------------------------
+
+	SELECT <column_name, ...> FROM <table_name> WHERE <statement>;
+
+Retrieves the columns from a specified table with the conditions after the WHERE clause. That last one is optional if you want to bring back everything.
+
+
+Mathematical Operators
+---------------------------
+
+	SELECT SUM(<column_name>) FROM <table_name>;
+
+Adds up all the values in a single column.
+
+### Counting Rows ###
+
+	SELECT COUNT(<column_name>) FROM <table_name>;
+
+Counts the number of values in the specified column that are non-null.
+
+	SELECT COUNT(*) FROM <table_name>;
+
+Counts the number of values returned by the query.
+
+	SELECT COUNT(DISTINCT <column_name>) FROM <table_name>;
+
+Counts the number of values in the specified column that are unique.
