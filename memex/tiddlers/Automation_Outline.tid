@@ -1,0 +1,15 @@
+created: 20160902151426003
+modified: 20160902152922027
+tags: automation testing
+title: Automation Outline
+type: text/x-markdown
+
+Technology Stack:
+
++ selenium-webdriver
+  - [Official Documentation](http://seleniumhq.github.io/selenium/docs/api/javascript/module/selenium-webdriver/index.html)
+  - [The Selenium Guidebook](https://seleniumguidebook.com/)
++ mocha
++ chai
++ [mochawesome](http://adamgruber.github.io/mochawesome/)
++ jenkins

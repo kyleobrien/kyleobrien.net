@@ -1,5 +1,10 @@
 Those that have fallen.
 
+- Super Mario Run / 2017.02.18 ([iOS](https://supermariorun.com/sp/en/index.html)) (100% all coins, except for the black special course. Took some time, but warmed up to it.)
+- Goblin Sword / 2016.12.08 ([iOS](http://www.gelatogames.com/p/goblin-sword.html?m=1)) (100%-ed this one. Pretty good, but some of the end game achievements were a slog.)
+- Lara Croft GO / 2016.10.18 ([iOS](http://laracroftgo.com)) (Much more than I expected. Such polish. Music was perfect.)
+- République / 2016.10.08 ([iOS](https://camouflaj.com)) (The collectathon and fidgety touch controls detracted from the overall game. Ending was unsatisying.)
+- Waking Mars ([iOS](http://www.tigerstylegames.com/wakingmars/)) (Skipped the worse ending, but got the normal and alternate ones. They felt bizarrely abrupt to me.)
 - Blackbar / 2016.04.06 ([iOS](http://mrgan.com/blackbar/)) (Reminded me of Desert Golf's purity. Inspiring how much some can can do with so little.)
 - Bastion / 2016.04.03 ([iOS](http://supergiantgames.com/?page_id=242)) (Solid. Stuck around for NG+, but didn't 100% the acheivements with the dreams. Great voice acting and soundtrack.)
 - Pink Heaven / 2015.10.21 ([iOS](http://playism-games.com/game/244/pink-heaven)) (Still got it.)

@@ -1,8 +1,12 @@
 Games I need to check out.
 
+- Firewatch ([XBone](http://www.firewatchgame.com))
+- The Witness ([XBone](http://the-witness.net))
+- Fez ([XBone](http://www.fezgame.com))
+- Doom ([XBone](http://doom.com/en-us/))
+- Hyper Light Drifter([Mac](http://www.heart-machine.com))
 - FTL ([Mac](http://www.ftlgame.com))
 - Thomas Was Alone ([Mac](http://www.thomaswasalone.com))
-- Waking Mars ([iOS](http://www.tigerstylegames.com/wakingmars/))
 - Sword and Sworcery: EP ([iOS](http://www.swordandsworcery.com))
 - Aquaria ([iOS](http://www.bit-blot.com/aquaria/))
 - BioShock Infinite ([Mac](http://www.aspyr.com/news_articles/aspyr-media-and-2k-games-announce-bioshock-infinite-coming-to-mac))
@@ -24,4 +28,5 @@ Games I need to check out.
 - Limits and Demonstrations ([Mac](http://kentuckyroutezero.com))
 - The Entertainment ([Mac](http://kentuckyroutezero.com))
 - Deep Under the Sky ([iOS](http://deepunderthesky.com))
-
+- Luigi's Mansion: Dark Moon ([3DS](http://luigismansion.nintendo.com))
+- Shovel Knight ([3DS](http://yachtclubgames.com/shovel-knight/))

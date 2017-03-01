@@ -1,5 +1,3 @@
 In progress.
 
-- Luigi's Mansion: Dark Moon ([3DS](http://luigismansion.nintendo.com))
-- Shovel Knight ([3DS](http://yachtclubgames.com/shovel-knight/))
-
+- The Legend of Zelda: Ocarina of Time ([3DS](http://zelda.com/ocarina3d/))
