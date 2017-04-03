@@ -1,5 +1,7 @@
 Those that have fallen.
 
+- Firewatch / 2017.03.17 ([XBone](http://www.firewatchgame.com)) (Lived up to the hype. The more I think about it, the more I like it.)
+- Hidden Folks / 2017.03.08 ([iOS](http://hiddenfolks.com)) (It was ok.)
 - Super Mario Run / 2017.02.18 ([iOS](https://supermariorun.com/sp/en/index.html)) (100% all coins, except for the black special course. Took some time, but warmed up to it.)
 - Goblin Sword / 2016.12.08 ([iOS](http://www.gelatogames.com/p/goblin-sword.html?m=1)) (100%-ed this one. Pretty good, but some of the end game achievements were a slog.)
 - Lara Croft GO / 2016.10.18 ([iOS](http://laracroftgo.com)) (Much more than I expected. Such polish. Music was perfect.)

@@ -1,6 +1,5 @@
 Games I need to check out.
 
-- Firewatch ([XBone](http://www.firewatchgame.com))
 - The Witness ([XBone](http://the-witness.net))
 - Fez ([XBone](http://www.fezgame.com))
 - Doom ([XBone](http://doom.com/en-us/))
