@@ -2,7 +2,6 @@ Games I need to check out.
 
 - The Witness ([XBone](http://the-witness.net))
 - Fez ([XBone](http://www.fezgame.com))
-- Doom ([XBone](http://doom.com/en-us/))
 - Hyper Light Drifter([Mac](http://www.heart-machine.com))
 - FTL ([Mac](http://www.ftlgame.com))
 - Thomas Was Alone ([Mac](http://www.thomaswasalone.com))
