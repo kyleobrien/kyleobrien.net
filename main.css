@@ -48,6 +48,12 @@ a:link, a:visited, a:active, a:hover
 	color: #2B2B2B;
 }
 
+#herotest
+{
+	/*background-size: auto;*/
+	width: 100%;
+}
+
 #hero_background
 {
 	background-color: #1F1F21;
