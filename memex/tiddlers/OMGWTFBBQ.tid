@@ -1,0 +1,11 @@
+created: 20160807210528340
+modified: 20160807210819411
+tags: 
+title: OMGWTFBBQ
+type: text/x-markdown
+
+brew
+brew update // updates brew itself
+brew upgrade // updates all
+brew upgrade // updates a specific package
+brew 

@@ -1,0 +1,22 @@
+created: 20160709143312383
+modified: 20160709143400427
+tags: testing agile
+title: Make Testing More Agile
+type: text/x-markdown
+
++ Scrum Guide says that testing in sprint is a requirement.
+    - SG: “Development Teams deliver an Increment of product functionality every Sprint. This Increment is useable, so a Product Owner may choose to immediately release it.”
+    - SG: “Each Increment is additive to all prior Increments and thoroughly tested, ensuring that all Increments work together.”
++ How?
+    1. Each developer has only one work in progress story.
+        + Don't start working on a new item until the one you’re working on is tested and done.
+        + If there’s a gap between the time a developer finishes implementation and the tester finishes testing, use it for:
+            - Refactoring
+            - Documentation
+            - Unit Tests
+    2. Keep stories as small as possible.
+        + Break stories down into chunks that can be tested without the whole finished (tasks).
+            - SG: “Work planned for the first days of the Sprint by the Development Team is decomposed by the end of this meeting, often to units of one day or less.
+    3. Bug fixes take priority over new work and make it into nightly builds.
+    4. Only put stories into a sprint if they are testable or product owner agrees to not test them.
+    5. Anything that doesn’t get done by the end of the sprint always get moved to the next.

@@ -1,0 +1,13 @@
+created: 20160826022736500
+modified: 20160826032731970
+tags: 
+title: Automation Setup
+type: text/x-markdown
+
+1. Install node.js.
+1. Install npm.
+2. Install selenium-webdriver.
+    npm install selenium-webdriver
+1. Install Visual Studio Code.
+
+http://seleniumhq.github.io/selenium/docs/api/javascript/

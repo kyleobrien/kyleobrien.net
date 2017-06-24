@@ -1,0 +1,20 @@
+created: 20160329164001252
+modified: 20160329164147284
+tags: testing
+title: Assumptions About Data
+type: text/x-markdown
+
++ Assumptions about names
+    - Adding 's will pluralize any name.
+    - People's names only have 1 capital letter
+    - People's names never change
+    - People's names only include a-z and A-Z.
+
++New Fields
+    - UI Positioning
+    - UI Translation, rotation, scaling
+    - Max Length
+    - Special Characters
+    - Inactive
+    - Save / Load
+    - Printing

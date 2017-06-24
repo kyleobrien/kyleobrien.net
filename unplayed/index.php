@@ -24,8 +24,8 @@ include('libs/markdown.php');
 body
 {
 	font: 13px/18px sans-serif;
-	color: #333;
-	background-color: #fff;
+	color: white;
+	background-color: #1b1b1e;
 	padding: 16px;
 }
 

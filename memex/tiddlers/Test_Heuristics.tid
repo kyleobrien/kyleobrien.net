@@ -1,0 +1,8 @@
+created: 20160329163537257
+modified: 20160329163821759
+tags: testing
+title: Test Heuristics
+type: text/x-markdown
+
++ Symmetry - Actions that have opposing (add/remove) should manipulate the data in a similar way.
++ Repetition - Perform the same action multiple times and observe the result. Is it the same? Does it adjust for previous iterations?

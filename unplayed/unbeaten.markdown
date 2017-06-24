@@ -1,7 +1,4 @@
 In progress.
 
-- Hundreds ([iOS](http://playhundreds.com))
-- Diablo 3 ([Mac](http://us.battle.net/d3/en/))
-- Limits and Demonstrations ([Mac](http://kentuckyroutezero.com))
-- The Entertainment ([Mac](http://kentuckyroutezero.com))
-
+- The Legend of Zelda: Ocarina of Time ([3DS](http://zelda.com/ocarina3d/))
+- Doom ([XBone](http://doom.com/en-us/))
