@@ -1,5 +1,6 @@
 Abandon ship.
 
+- Hearthstone / 2017.08.23 ([iOS] (https://us.battle.net/hearthstone/en/))(Mostly enjoyed this, but (a) I don't have the money to invest in buying packs and (b) I don't have the time to play this and something else. Tried for 3 weeks and this was pretty much all I did.)
 - Fire Emblem Heroes / 2017.05.15 ([iOS](https://fire-emblem-heroes.com/en/sp/))(My first foray into gotchapon. Did not like.)
 - Hitman GO / 2016.12.18 ([iOS](https://www.square-enix-montreal.com/hitmango))(Not sure why I didn't find this compelling when I loved Lara Croft GO. Maybe the aesthetics? Felt like i had to do a lot more "rocking" of the character to make a move at the right time.)
 - Disney Crossy Road / 2016.04.30 ([iOS](http://games.disney.com/disney-crossy-road))(Endless runners and high score games still don't do it for me.)
