@@ -1,0 +1,60 @@
+
+body {
+	font-family: "futura";
+	text-align: center;
+}
+
+footer {
+	font-size: 0.75rem;
+	margin-top: 5rem;
+}
+
+section {
+	margin-top: 5rem;
+	margin-bottom: 0.5rem;
+}
+
+#container {
+	padding: 5rem 0rem 1.5rem 0rem;
+}
+
+#currently {
+	font-style: italic;
+}
+
+.list_of_links {
+	display: block;
+	list-style: none inside;
+	padding-left: 0;
+}
+
+#headshot {
+	border-radius: 50%;
+	border: 0.25rem solid black;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 33%
+}
+
+#summary {
+	font-size: 1em;
+	text-align: center;
+}
+
+a:link {
+	color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+a:hover {
+	color: black;
+}
+
+a:active {
+	color: black;
+}
+      
