@@ -1,6 +1,9 @@
-
 body {
+	background-color: #2f3640;
+	color: #f5f6fa;
 	font-family: "futura";
+    margin: 0 auto;
+    max-width: 512px;
 	text-align: center;
 }
 
@@ -15,11 +18,14 @@ section {
 }
 
 #container {
-	padding: 5rem 0rem 1.5rem 0rem;
+	padding: 5rem 1rem 1.5rem 1rem;
 }
 
 #currently {
+	font-size: 0.75rem;
 	font-style: italic;
+	margin: 0rem auto;
+	width: 80%;
 }
 
 .list_of_links {
@@ -30,7 +36,7 @@ section {
 
 #headshot {
 	border-radius: 50%;
-	border: 0.25rem solid black;
+	border: 0.25rem solid #dcdde1;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -38,23 +44,23 @@ section {
 }
 
 #summary {
-	font-size: 1em;
+	font-size: 1.25rem;
+    font-weight: 500;
 	text-align: center;
 }
 
 a:link {
-	color: black;
+	color: #f5f6fa;
 }
 
 a:visited {
-	color: black;
+	color: #f5f6fa;
 }
 
 a:hover {
-	color: black;
+	color: #f5f6fa;
 }
 
 a:active {
-	color: black;
+	color: #f5f6fa;
 }
-      

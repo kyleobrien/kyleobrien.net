@@ -1,5 +1,6 @@
 Those that have fallen.
 
+- Minit / 2019.09.14 ([iOS](https://www.devolverdigital.com/games/minit)) (Enjoyed first play through, but interest plummeted on NG+. 83% on my own, guides to get up to 110%.)
 - Oddmar / 2019.03.30 ([iOS](http://www.oddmargame.com)) (100% achievements. Short, jumping was floaty, but I still liked it.)
 - Super Mario World / 2019.02.10 ([SNES](https://en.wikipedia.org/wiki/Super_Mario_World)) (High 80's out of 96 levels. 100% Star Road. Played through with Liam, and it is still a masterpiece.)
 - Grimvalor / 2019.01.20 ([iOS](https://direlight.com/grimvalor/)) (Started well, but got repetitive. Grappling orb pizzles were frustrating with touch controls. Would have gotten 100% completion otherwise.)
