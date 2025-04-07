@@ -1,11 +1,14 @@
 <?php
 
+require_once 'libs/Michelf/Markdown.inc.php';
+require_once 'libs/Michelf/SmartyPants.inc.php';
+
+use Michelf\Markdown, Michelf\SmartyPants;
+
 function e($str) { echo preg_replace('#\(([^\)]+)\)#', '<span>\1</span>', $str); }
 
-include('libs/smartypants.php');
-include('libs/markdown.php');
-
 ?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -132,22 +135,46 @@ span + span
 
 <div>
 <h1>Unplayed</h1>
-<?php echo(markdown(smartypants(file_get_contents('unplayed.markdown'))));?>
+<?php 
+
+$unplayed_text = file_get_contents('unplayed.markdown');
+$unplayed_html = Markdown::defaultTransform($unplayed_text);
+$unplayed_html = SmartyPants::defaultTransform($unplayed_html);
+echo($unplayed_html);
+
+?>
 </div>
 
 <div>
 <h1>Unbeaten</h1>
-<?php echo(markdown(smartypants(file_get_contents('unbeaten.markdown'))));?>
+<?php 
+
+$unbeaten_text = file_get_contents('unbeaten.markdown');
+$unbeaten_html = Markdown::defaultTransform($unbeaten_text);
+$unbeaten_html = SmartyPants::defaultTransform($unbeaten_html);
+echo($unbeaten_html);
+
+?>
 </div>
 
 <div>
 <h1>Beaten</h1>
-<?php echo(markdown(smartypants(file_get_contents('beaten.markdown'))));?>
+<?php
+$beaten_text = file_get_contents('beaten.markdown');
+$beaten_html = Markdown::defaultTransform($beaten_text);
+$beaten_html = SmartyPants::defaultTransform($beaten_html);
+echo($beaten_html);
+?>
 </div>
 
 <div>
 <h1>Abandoned</h1>
-<?php echo(markdown(smartypants(file_get_contents('abandoned.markdown'))));?>
+<?php
+$abandoned_text = file_get_contents('abandoned.markdown');
+$abandoned_html = Markdown::defaultTransform($abandoned_text);
+$abandoned_html = SmartyPants::defaultTransform($abandoned_html);
+echo($abandoned_html);
+?>
 </div>
 
 <div id="footer"><a href="http://shauninman.com/">Shaun Inman</a> gave me this idea. <a href="http://shauninman.com/archive/2011/04/18/unplayed">More info</a></div>
