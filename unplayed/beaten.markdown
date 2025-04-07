@@ -5,7 +5,7 @@ Those that have fallen.
 - The Legend of Zelda: Echos of Wisdom / 2024.12.01 ([NSW](https://www.nintendo.com/us/store/products/the-legend-of-zelda-echoes-of-wisdom-switch/)) (On the easy side. Still ejoyed it, but I hope they do Zelda better next time.)
 - What Remains of Edith Finch / 2024.09.20 ([NSW](https://www.annapurna.com/interactive/what-remains-of-edith-finch)) (Note sure what to make of this. Did not enjoy the walking around part. Interesting-ness of individual family members' stories varied dramatically.)
 - Fez / 2024.09.01 ([NSW](http://www.fezgame.com)) (All cubes, anti-cubes, and artifacts. One heart piece. Didn't do the riddle or the black monolith. After more than 10 years, I finally finished it.)
-- Super Mario Bros. Wonder / 2024.06.09 ([NSW](https://supermariobroswonder.nintendo.com)) (Solid, but not as memorable asnother Mario games. Everything but the Final-Final Trat Badge Marathon, cause i couldnt make the last, invisible jump.)
+- Super Mario Bros. Wonder / 2024.06.09 ([NSW](https://supermariobroswonder.nintendo.com)) (Solid, but not as memorable as other Mario games. Everything but the Final-Final Test Badge Marathon, cause I couldn't make the last, invisible jump.)
 - Princess Peach: Showtime! / 2024.05.12 ([NSW](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Princess-Peach-Showtime--2444445.html)) (100%. Style and presentation were great, gameplay was meh.)
 - Ratcheteer / 2023.08.14 ([PDU](https://play.date/games/ratcheteer/)) (I like Shaun's work. I'm using this little web app, after all. 100%, except for runes G and P.)
 - Omaze / 2023.07.15 ([PDU](https://play.date/games/omaze/)) (Nicely crafted puzzler for the device. Every puzzle was just the right amount of different enough from the last.)
