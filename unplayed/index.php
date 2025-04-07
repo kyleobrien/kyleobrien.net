@@ -132,22 +132,22 @@ span + span
 
 <div>
 <h1>Unplayed</h1>
-<?php e(markdown(smartypants(file_get_contents('unplayed.markdown'))));?>
+<?php echo(markdown(smartypants(file_get_contents('unplayed.markdown'))));?>
 </div>
 
 <div>
 <h1>Unbeaten</h1>
-<?php e(markdown(smartypants(file_get_contents('unbeaten.markdown'))));?>
+<?php echo(markdown(smartypants(file_get_contents('unbeaten.markdown'))));?>
 </div>
 
 <div>
 <h1>Beaten</h1>
-<?php e(markdown(smartypants(file_get_contents('beaten.markdown'))));?>
+<?php echo(markdown(smartypants(file_get_contents('beaten.markdown'))));?>
 </div>
 
 <div>
 <h1>Abandoned</h1>
-<?php e(markdown(smartypants(file_get_contents('abandoned.markdown'))));?>
+<?php echo(markdown(smartypants(file_get_contents('abandoned.markdown'))));?>
 </div>
 
 <div id="footer"><a href="http://shauninman.com/">Shaun Inman</a> gave me this idea. <a href="http://shauninman.com/archive/2011/04/18/unplayed">More info</a></div>
