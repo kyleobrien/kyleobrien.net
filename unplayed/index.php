@@ -140,7 +140,7 @@ span + span
 $unplayed_text = file_get_contents('unplayed.markdown');
 $unplayed_html = Markdown::defaultTransform($unplayed_text);
 $unplayed_html = SmartyPants::defaultTransform($unplayed_html);
-echo($unplayed_html);
+e($unplayed_html);
 
 ?>
 </div>
@@ -152,7 +152,7 @@ echo($unplayed_html);
 $unbeaten_text = file_get_contents('unbeaten.markdown');
 $unbeaten_html = Markdown::defaultTransform($unbeaten_text);
 $unbeaten_html = SmartyPants::defaultTransform($unbeaten_html);
-echo($unbeaten_html);
+e($unbeaten_html);
 
 ?>
 </div>
@@ -163,7 +163,7 @@ echo($unbeaten_html);
 $beaten_text = file_get_contents('beaten.markdown');
 $beaten_html = Markdown::defaultTransform($beaten_text);
 $beaten_html = SmartyPants::defaultTransform($beaten_html);
-echo($beaten_html);
+e($beaten_html);
 ?>
 </div>
 
@@ -173,7 +173,7 @@ echo($beaten_html);
 $abandoned_text = file_get_contents('abandoned.markdown');
 $abandoned_html = Markdown::defaultTransform($abandoned_text);
 $abandoned_html = SmartyPants::defaultTransform($abandoned_html);
-echo($abandoned_html);
+e($abandoned_html);
 ?>
 </div>
 
