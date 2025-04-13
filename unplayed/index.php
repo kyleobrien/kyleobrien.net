@@ -35,8 +35,8 @@ function t($filename) {
 		body
 		{
 			font: 13px/18px sans-serif;
-			color: white;
-			background-color: #1b1b1e;
+			color: black;
+			background-color: whitesmoke;
 			padding: 16px;
 		}
 
@@ -89,7 +89,7 @@ function t($filename) {
 		li
 		{
 			list-style: none;
-			padding: 0 0 0 16px;
+			padding: 0 0 2px 16px;
 			position: relative;
 		}
 
@@ -106,7 +106,7 @@ function t($filename) {
 
 		span
 		{
-			color: #999;
+			color: black;
 			font-size: 9px;
 		}
 
@@ -117,6 +117,7 @@ function t($filename) {
 			display: block;
 			position: relative;
 			top: -2px;
+			color: #212121;
 		}
 
 		/* iPhone [portrait + landscape] */
