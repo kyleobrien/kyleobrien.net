@@ -1,12 +1,11 @@
 Games I need to check out.
 
-- Void Stranger
-- Venba ([NSW](https://venbagame.com))
+- Void Stranger ([PC](https://se-made.com/voidstranger.html))
 - Animal Well ([NSW](https://www.animalwell.net))
-- Sea of Stars ([NSW](https://seaofstarsgame.co))
 - The Case of the Golden Idol ([PC](https://www.thegoldenidol.com))
 - Signalis ([NSW](http://rose-engine.org/signalis/))
-- Untitled Goose Game ([NSW](https://goose.game))
+- Venba ([NSW](https://venbagame.com))
+- Sea of Stars ([NSW](https://seaofstarsgame.co))
 - Picross S ([NSW](https://en.m.wikipedia.org/wiki/Picross_S))
 - Transistor ([]())
 - Iconoclasts ([]())
@@ -21,9 +20,9 @@ Games I need to check out.
 - Earthbound ([SNES, Wii U](http://en.wikipedia.org/wiki/EarthBound))
 - Beyond Good and Evil ([Xbox, Xbox 360](http://marketplace.xbox.com/en-us/Product/Beyond-Good-Evil-HD/66acd000-77fe-1000-9115-d80258410afa))
 - Papers, Please ([Mac](http://dukope.com))
-- Escape Goat 2 ([Mac](http://www.escapegoat2.com))
 - Sir, You Are Being Hunted ([Mac](http://www.big-robot.com/tag/sir-you-are-being-hunted/))
 - Limits and Demonstrations ([Mac](http://kentuckyroutezero.com))
 - The Entertainment ([Mac](http://kentuckyroutezero.com))
 - Luigi's Mansion: Dark Moon ([3DS](http://luigismansion.nintendo.com))
 - Shovel Knight ([3DS](http://yachtclubgames.com/shovel-knight/))
+- Picross 3D ([DS](https://en.m.wikipedia.org/wiki/Picross_3D))

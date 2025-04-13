@@ -1,5 +1,6 @@
 Those that have fallen.
 
+- Metroid Prime Remastered / 2025.03.31 ([NSW](https://www.nintendo.com/us/store/products/metroid-prime-remastered-switch/)) (First 3D metroid. 79% completion. Exploration was the high point, but combat was meh. Lack of map waypoints was sorely missed.)
 - Castlevania: Circle of the Moon / 2025.02.13 ([NSW](https://en.m.wikipedia.org/wiki/Castlevania:_Circle_of_the_Moon)) (First Castlevania game I've ever beaten. 94% map completion. Made it just shy of halfway through the battle arena.)
 - Portal 2 / 2024.12.27 ([NSW](https://www.thinkwithportals.com)) (Fonder memories of the first game. Didn't enjoy the more open, mid-game puzzles compared to the focused test chambers.)
 - The Legend of Zelda: Echos of Wisdom / 2024.12.01 ([NSW](https://www.nintendo.com/us/store/products/the-legend-of-zelda-echoes-of-wisdom-switch/)) (On the easy side. Still ejoyed it, but I hope they do Zelda better next time.)

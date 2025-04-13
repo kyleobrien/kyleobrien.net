@@ -160,7 +160,7 @@ function t($filename) {
 	<?php e(t('abandoned.markdown')); ?>
 	</div>
 
-	<div id="footer"><a href="http://shauninman.com/">Shaun Inman</a> gave me this idea. <a href="http://shauninman.com/archive/2011/04/18/unplayed">More info</a></div>
+	<div id="footer"><a href="http://shauninman.com/">Shaun Inman</a> gave me this idea. <a href="http://shauninman.com/archive/2011/04/18/unplayed">More info</a> (<a href="https://web.archive.org/web/20230317115925/https://shauninman.com/archive/2011/04/18/unplayed">archived)</a>.</div>
 
 	</body>
 </html>
