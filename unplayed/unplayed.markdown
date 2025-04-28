@@ -1,16 +1,14 @@
 Games I need to check out.
 
 - Void Stranger ([PC](https://se-made.com/voidstranger.html))
-- Animal Well ([NSW](https://www.animalwell.net))
 - The Case of the Golden Idol ([PC](https://www.thegoldenidol.com))
 - Signalis ([NSW](http://rose-engine.org/signalis/))
 - Venba ([NSW](https://venbagame.com))
 - Sea of Stars ([NSW](https://seaofstarsgame.co))
-- Picross S ([NSW](https://en.m.wikipedia.org/wiki/Picross_S))
 - Transistor ([]())
 - Iconoclasts ([]())
 - The Witness ([XBone](http://the-witness.net))
-- Hyper Light Drifter([Mac](http://www.heart-machine.com))
+- Hyper Light Drifter ([Mac](http://www.heart-machine.com))
 - Thomas Was Alone ([Mac](http://www.thomaswasalone.com))
 - Sword and Sworcery: EP ([iOS](http://www.swordandsworcery.com))
 - Aquaria ([iOS](http://www.bit-blot.com/aquaria/))
