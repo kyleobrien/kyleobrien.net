@@ -1,11 +1,13 @@
 Those that have fallen.
 
+- Hades / 2025.07.20 ([NSW](https://www.supergiantgames.com/games/hades/)) (A classic. I've been playing this for years, but finally calling it. Got to the epilogue, but not going to keep grinding for 100%. I'm nowhere near good enough for that.)
+- Dig! Dig! Dino! / 2025.05.31 ([PDX](https://play.date/games/dig-dig-dino/)) (Simple, but solid loop. Blasted through this in 5-6 hours.) 
 - Untitled Goose Game / 2025.04.24 ([NSW](https://goose.game)) (100%. I kind of hated this game. Maybe that was the point?)
 - Metroid Prime Remastered / 2025.03.31 ([NSW](https://www.nintendo.com/us/store/products/metroid-prime-remastered-switch/)) (First 3D metroid. 79% completion. Exploration was the high point, but combat was meh. Lack of map waypoints was sorely missed.)
 - Castlevania: Circle of the Moon / 2025.02.13 ([NSW](https://en.m.wikipedia.org/wiki/Castlevania:_Circle_of_the_Moon)) (First Castlevania game I've ever beaten. 94% map completion. Made it just shy of halfway through the battle arena.)
 - Portal 2 / 2024.12.27 ([NSW](https://www.thinkwithportals.com)) (Fonder memories of the first game. Didn't enjoy the more open, mid-game puzzles compared to the focused test chambers.)
 - The Legend of Zelda: Echos of Wisdom / 2024.12.01 ([NSW](https://www.nintendo.com/us/store/products/the-legend-of-zelda-echoes-of-wisdom-switch/)) (On the easy side. Still ejoyed it, but I hope they do Zelda better next time.)
-- What Remains of Edith Finch / 2024.09.20 ([NSW](https://www.annapurna.com/interactive/what-remains-of-edith-finch)) (Note sure what to make of this. Did not enjoy the walking around part. Interesting-ness of individual family members' stories varied dramatically.)
+- What Remains of Edith Finch / 2024.09.20 ([NSW](https://www.annapurna.com/interactive/what-remains-of-edith-finch)) (Not sure what to make of this. Did not enjoy the walking around part. Interesting-ness of individual family members' stories varied dramatically.)
 - Fez / 2024.09.01 ([NSW](http://www.fezgame.com)) (All cubes, anti-cubes, and artifacts. One heart piece. Didn't do the riddle or the black monolith. After more than 10 years, I finally finished it.)
 - Super Mario Bros. Wonder / 2024.06.09 ([NSW](https://supermariobroswonder.nintendo.com)) (Solid, but not as memorable as other Mario games. Everything but the Final-Final Test Badge Marathon, cause I couldn't make the last, invisible jump.)
 - Princess Peach: Showtime! / 2024.05.12 ([NSW](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Princess-Peach-Showtime--2444445.html)) (100%. Style and presentation were great, gameplay was meh.)
