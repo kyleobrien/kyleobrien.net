@@ -2,8 +2,12 @@ body {
     background-color: whitesmoke;
 }
 
-h1 {
+h1, h2 {
     font-family: Futura;
+}
+
+h2 {
+    font-size: 100%;
 }
 
 p {
