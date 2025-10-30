@@ -1,5 +1,6 @@
 Those that have fallen.
 
+- Klonoa: Empire of Dreams / 2025.10.19 ([GBA](https://en.wikipedia.org/wiki/Klonoa:_Empire_of_Dreams)) (It was fine. Some of the introductions to new mechanics were obtuse. Skipped a couple of the post-game EX levels.)
 - Universal Paperclips / 2025.09.14 ([iOS](https://www.franklantz.net/universal-paperclips/)) (I made a lot of paperclips.)
 - Hades / 2025.07.20 ([NSW](https://www.supergiantgames.com/games/hades/)) (A classic. I've been playing this for years, but finally calling it. Got to the epilogue, but not going to keep grinding for 100%. I'm nowhere near good enough for that.)
 - Dig! Dig! Dino! / 2025.05.31 ([PDX](https://play.date/games/dig-dig-dino/)) (Simple, but solid loop. Blasted through this in 5-6 hours.) 

@@ -24,3 +24,4 @@ Games I need to check out.
 - Luigi's Mansion: Dark Moon ([3DS](http://luigismansion.nintendo.com))
 - Shovel Knight ([3DS](http://yachtclubgames.com/shovel-knight/))
 - Picross 3D ([DS](https://en.m.wikipedia.org/wiki/Picross_3D))
+- Picross S ([NSW](https://en.m.wikipedia.org/wiki/Picross_S))
