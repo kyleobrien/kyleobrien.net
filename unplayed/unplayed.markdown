@@ -1,5 +1,12 @@
 Games I need to check out.
 
+- Blue Prince
+- Split Fiction
+- Expedition 33
+- Elden Ring
+- Dark Souls
+- Shadow of the Colossus
+- Inscryption
 - Void Stranger ([PC](https://se-made.com/voidstranger.html))
 - The Case of the Golden Idol ([PC](https://www.thegoldenidol.com))
 - Signalis ([NSW](http://rose-engine.org/signalis/))
@@ -11,7 +18,6 @@ Games I need to check out.
 - Hyper Light Drifter ([Mac](http://www.heart-machine.com))
 - Thomas Was Alone ([Mac](http://www.thomaswasalone.com))
 - Sword and Sworcery: EP ([iOS](http://www.swordandsworcery.com))
-- Aquaria ([iOS](http://www.bit-blot.com/aquaria/))
 - BioShock Infinite ([Mac](http://www.aspyr.com/news_articles/aspyr-media-and-2k-games-announce-bioshock-infinite-coming-to-mac))
 - Gone Home ([Mac](http://thefullbrightcompany.com/gonehome/))
 - Starseed Pilgrim ([Mac](http://www.starseedpilgrim.com/get.html))
