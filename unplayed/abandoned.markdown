@@ -1,4 +1,4 @@
-Abandon ship.
+Jump ship.
 
 - Crankin's Time Travel Adventure / 2023.06.02 ([PDU](https://uvula.jp/crankin)) (Got to level 43 out of 50, I think. Can't use the crank with enough precision to get through it.)
 - A Monster's Expedition ([iOS](https://www.monsterexpedition.com)) (Repetitive puzzles. Didn't hold my interest.)

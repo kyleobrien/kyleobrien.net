@@ -1,5 +1,6 @@
 Those that have fallen.
 
+- Shinobi: Art of Vengeance / 2025.12.19 ([NSW](https://asia.sega.com/shinobi-art-of-vengeance/en/)) (Solid, felt great. Combat was fast and smooth. Story was ridiculous, but still fun. 100%.)
 - Night in the Woods / 2025.11.25 ([NSW](http://www.nightinthewoods.com)) (Pushed through it. Felt like a 2D walking sim. Main characters, except Bea, were unlikeable. Saw the plot coming from a million miles away.)
 - Klonoa: Empire of Dreams / 2025.10.19 ([GBA](https://en.wikipedia.org/wiki/Klonoa:_Empire_of_Dreams)) (It was fine. Some of the introductions to new mechanics were obtuse. Skipped a couple of the post-game EX levels.)
 - Universal Paperclips / 2025.09.14 ([iOS](https://www.franklantz.net/universal-paperclips/)) (I made a lot of paperclips.)

@@ -1,4 +1,4 @@
 In progress.
 
-- Shinobi: Art of Vengeance ([NSW](https://asia.sega.com/shinobi-art-of-vengeance/en/))
+- Super Mario 64 ([NSW](https://en.wikipedia.org/wiki/Super_Mario_64))
 - Animal Well ([NSW](https://www.animalwell.net))
