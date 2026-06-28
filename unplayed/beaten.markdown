@@ -1,7 +1,7 @@
 Those that have fallen.
 
 - Super Mario 64 / 2026.03.01 ([NSW](https://en.wikipedia.org/wiki/Super_Mario_64)) (I understand the love for this game, but that camera is so bad. 116 stars on my own, guides for the last 4.)
-- Journey / 2026.02.22 ([PC](https://thatgamecompany.com/journey/)) Not for me. The twist is the exact opposite thing I want out of video games.
+- Journey / 2026.02.22 ([PC](https://thatgamecompany.com/journey/)) (Not for me. The twist is the exact opposite thing I want out of video games.)
 - Shinobi: Art of Vengeance / 2025.12.19 ([NSW](https://asia.sega.com/shinobi-art-of-vengeance/en/)) (Solid, felt great. Combat was fast and smooth. Story was ridiculous, but still fun. 100%.)
 - Night in the Woods / 2025.11.25 ([NSW](http://www.nightinthewoods.com)) (Pushed through it. Felt like a 2D walking sim. Main characters, except Bea, were unlikeable. Saw the plot coming from a million miles away.)
 - Klonoa: Empire of Dreams / 2025.10.19 ([GBA](https://en.wikipedia.org/wiki/Klonoa:_Empire_of_Dreams)) (It was fine. Some of the introductions to new mechanics were obtuse. Skipped a couple of the post-game EX levels.)
