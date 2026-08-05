@@ -1,5 +1,6 @@
 Those that have fallen.
 
+- Mina the Hollower ([NSW](https://www.yachtclubgames.com/games/mina-the-hollower/)) (Took around 8-10 hours, but really got into it after that. Such a well-crafted game with great ambience. 100%, no guides.)
 - Super Mario 64 / 2026.03.01 ([NSW](https://en.wikipedia.org/wiki/Super_Mario_64)) (I understand the love for this game, but that camera is so bad. 116 stars on my own, guides for the last 4.)
 - Journey / 2026.02.22 ([PC](https://thatgamecompany.com/journey/)) (Not for me. The twist is the exact opposite thing I want out of video games.)
 - Shinobi: Art of Vengeance / 2025.12.19 ([NSW](https://asia.sega.com/shinobi-art-of-vengeance/en/)) (Solid, felt great. Combat was fast and smooth. Story was ridiculous, but still fun. 100%.)
