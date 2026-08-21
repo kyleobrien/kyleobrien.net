@@ -1,33 +1,22 @@
-Games I need to check out.
+Maybe?
 
-- Blue Prince
-- Split Fiction
-- Expedition 33
-- Elden Ring
-- Dark Souls
-- Shadow of the Colossus
-- Inscryption
-- Void Stranger ([PC](https://se-made.com/voidstranger.html))
-- The Case of the Golden Idol ([PC](https://www.thegoldenidol.com))
+- The Legend of Zelda: Skyward Sword HD ([NSW](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Skyward_Sword))
 - Signalis ([NSW](http://rose-engine.org/signalis/))
-- Venba ([NSW](https://venbagame.com))
-- Sea of Stars ([NSW](https://seaofstarsgame.co))
-- Transistor ([]())
-- Iconoclasts ([]())
-- The Witness ([XBone](http://the-witness.net))
-- Hyper Light Drifter ([Mac](http://www.heart-machine.com))
-- Thomas Was Alone ([Mac](http://www.thomaswasalone.com))
-- Sword and Sworcery: EP ([iOS](http://www.swordandsworcery.com))
-- BioShock Infinite ([Mac](http://www.aspyr.com/news_articles/aspyr-media-and-2k-games-announce-bioshock-infinite-coming-to-mac))
-- Gone Home ([Mac](http://thefullbrightcompany.com/gonehome/))
-- Starseed Pilgrim ([Mac](http://www.starseedpilgrim.com/get.html))
-- Earthbound ([SNES, Wii U](http://en.wikipedia.org/wiki/EarthBound))
-- Beyond Good and Evil ([Xbox, Xbox 360](http://marketplace.xbox.com/en-us/Product/Beyond-Good-Evil-HD/66acd000-77fe-1000-9115-d80258410afa))
-- Papers, Please ([Mac](http://dukope.com))
-- Sir, You Are Being Hunted ([Mac](http://www.big-robot.com/tag/sir-you-are-being-hunted/))
-- Limits and Demonstrations ([Mac](http://kentuckyroutezero.com))
-- The Entertainment ([Mac](http://kentuckyroutezero.com))
 - Luigi's Mansion: Dark Moon ([3DS](http://luigismansion.nintendo.com))
-- Shovel Knight ([3DS](http://yachtclubgames.com/shovel-knight/))
+- Sea of Stars ([NSW](https://seaofstarsgame.co))
+- Outer Wilds ([NSW](https://www.mobiusdigitalgames.com/outer-wilds.html))
+- Beyond Good and Evil ([NSW](https://limitedrungames.com/products/switch-limited-run-247-beyond-good-and-evil-20-th-anniversary-edition))
+- Starseed Pilgrim ([Mac](http://www.starseedpilgrim.com/get.html))
+- Blue Prince ([Mac](https://www.blueprincegame.com))
+- Gone Home ([Mac](http://thefullbrightcompany.com/gonehome/))
+- Hyper Light Drifter ([Mac](http://www.heart-machine.com))
+- The Witness ([XBone](http://the-witness.net))
+- The Case of the Golden Idol ([PC](https://www.thegoldenidol.com))
+- Void Stranger ([PC](https://se-made.com/voidstranger.html))
+- Elden Ring ([NSW2](https://en.bandainamcoent.eu/elden-ring/elden-ring-tarnished-edition))
+- Expedition 33 ([PC](https://www.expedition33.com))
+- Shadow of the Colossus
+- Inscryption ([Mac](https://www.inscryption.com/steam))
+- Sword and Sworcery: EP ([iOS](http://www.swordandsworcery.com))
 - Picross 3D ([DS](https://en.m.wikipedia.org/wiki/Picross_3D))
 - Picross S ([NSW](https://en.m.wikipedia.org/wiki/Picross_S))
