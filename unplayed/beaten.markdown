@@ -1,5 +1,6 @@
 Those that have fallen.
 
+- Metroid Dread / 2026.08.21 ([NSW](https://metroid.nintendo.com/dread/)) (Really good. E.M.M.I. robot interactions were the worst part of the game, but not so bad they detracted from the experience. Boss battles were tight. 100% items, no guides.)
 - Mina the Hollower / 2026.07.23 ([NSW](https://www.yachtclubgames.com/games/mina-the-hollower/)) (Took around 8-10 hours, but really got into it after that. Such a well-crafted game with great ambience. 100%, no guides.)
 - Super Mario 64 / 2026.03.01 ([NSW](https://en.wikipedia.org/wiki/Super_Mario_64)) (I understand the love for this game, but that camera is so bad. 116 stars on my own, guides for the last 4.)
 - Journey / 2026.02.22 ([PC](https://thatgamecompany.com/journey/)) (Not for me. The twist is the exact opposite thing I want out of video games.)
