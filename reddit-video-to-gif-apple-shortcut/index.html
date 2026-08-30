@@ -157,7 +157,7 @@
 <p>I have two kids with their own iPhones and iPads and all of their devices are locked down to prevent unrestricted web browsing. With these limits in place, its difficult for me to share <a href='https://www.reddit.com/r/funny/comments/1pw40mp/trolling_the_dog/'>funny or interesting videos</a> I see on <a href='https://www.reddit.com'>Reddit</a>. Can I make a shortcut to find the source of those videos, convert them to a format that is easily shareable, and put them straight in the Messages app? Let’s try! <b>tl;dr</b>, I could.</p><br>
 <h2 id='Investigation'>Investigation</h2><br>
 <p>I started by using <a href='https://developer.apple.com/documentation/safari-developer-tools/web-inspector'>Safari’s Web Inspector</a> and focusing on the section of the page that is responsible for playing the video. Right away, it looked like the HTML element named <code class='code-inline'>&lt;shreddit-player&gt;</code> was going to be a promising starting point.</p><br>
-<p><img src='Screenshot%202026-02-02%20at%207.29.45%E2%80%AFAM.png'></p><br>
+<p><img src='html-source-snippet.png'></p><br>
 <p>Before continuing, I decided to try a couple of quick things that might make finding a solution easier:</p><br>
 <ol start='1' style='--data-list-start: 1;'>
 <li>Turning off JavaScript in the hope that the HTML returned might be simpler or use a standard <code class='code-inline'>&lt;video&gt;</code> element to play the media. Instead, I got a non-functional page that showed only the first frame of the video and a loading spinner that animated indefinitely.</li>
